@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(218, 221, 227);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
+
+footer {
+    color: rgb(0,0,0);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 200;
+}
